@@ -14,8 +14,8 @@ This repository is to study shaders (glsl, osl and blinkscript etc).
 ### materials
 - [x] [Shader tutorial](https://www.youtube.com/playlist?list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7)
 
-- [] [Three js tutorial](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE)
-- [] [Computer Graphics UBC](https://www.youtube.com/playlist?list=PLWwvLH0l25RwwBUPgvlPJQZAY5KAnJjPZ)
-- [] [Creative Coding](https://www.youtube.com/playlist?list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm)
-- [] [Webgl tutorial](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt)
+- [ ] [Three js tutorial](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE)
+- [ ] [Computer Graphics UBC](https://www.youtube.com/playlist?list=PLWwvLH0l25RwwBUPgvlPJQZAY5KAnJjPZ)
+- [ ] [Creative Coding](https://www.youtube.com/playlist?list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm)
+- [ ] [Webgl tutorial](https://www.youtube.com/playlist?list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt)
 
