@@ -2,7 +2,7 @@
 This repository is to study shaders (glsl, osl and blinkscript etc).
 
 
-### environment
+### Environment
 - VScode
 - shader language support for vscode
 - glsl-canvas
@@ -11,7 +11,7 @@ This repository is to study shaders (glsl, osl and blinkscript etc).
 - [GLSL viewer](https://github.com/patriciogonzalezvivo/glslViewer/wiki/Compiling#e-compiling-on-macos)
 - $ glslViewer filepath
 
-### materials
+### Learning Materials
 - [x] [Shader tutorial](https://www.youtube.com/playlist?list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7)
 
 - [ ] [Three js tutorial](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE)
